@@ -1,0 +1,17 @@
+{
+  "name": "svg-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assest/css"
+  },
+  "author": "shahjalal khan",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.45.1"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
